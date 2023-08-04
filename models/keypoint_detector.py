@@ -6,10 +6,10 @@ from collections import OrderedDict
 import os
 import random
 
-from models import networks
-from models import losses
-from data import augmentation
-from models import operations
+from USIP.models import networks
+from USIP.models import losses
+from USIP.data import augmentation
+from USIP.models import operations
 
 
 class ModelDetector():

@@ -6,10 +6,10 @@ import numpy as np
 import math
 import time
 
-from util import som
-from models import operations
-from models.layers import *
-from util import vis_tools
+from USIP.util import som
+from USIP.models import operations
+from USIP.models.layers import *
+from USIP.util import vis_tools
 
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
